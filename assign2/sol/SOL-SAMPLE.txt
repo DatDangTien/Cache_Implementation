@@ -1,0 +1,208 @@
+MFU:
+12
+17
+24
+14
+26
+26
+18
+10
+18
+Print replacement buffer
+17 29 true
+35 21 true
+16 2 false
+20 26 false
+27 28 true
+42 34 true
+26 17 false
+Print search buffer
+Print BST in inorder:
+16 2 false
+17 29 true
+20 26 false
+26 17 false
+27 28 true
+35 21 true
+42 34 true
+Print BST in preorder:
+42 34 true
+20 26 false
+16 2 false
+17 29 true
+26 17 false
+27 28 true
+35 21 true
+Prime memory
+26 17 false
+20 26 false
+42 34 true
+16 2 false
+17 29 true
+27 28 true
+35 21 true
+Hash table memory
+42 34 true
+27 28 true
+16 2 false
+17 29 true
+35 21 true
+26 17 false
+20 26 false
+
+==============================================
+LFU:
+12
+17
+14
+26
+18
+30
+18
+Print replacement buffer
+35 21 true
+30 17 true
+17 29 true
+8 14 false
+40 30 false
+20 26 false
+50 18 false
+Print search buffer
+Print BST in inorder:
+8 14 false
+17 29 true
+20 26 false
+30 17 true
+35 21 true
+40 30 false
+50 18 false
+Print BST in preorder:
+20 26 false
+8 14 false
+17 29 true
+40 30 false
+30 17 true
+35 21 true
+50 18 false
+Prime memory
+20 26 false
+17 29 true
+50 18 false
+40 30 false
+35 21 true
+8 14 false
+30 17 true
+Hash table memory
+35 21 true
+50 18 false
+8 14 false
+17 29 true
+30 17 true
+40 30 false
+20 26 false
+
+======================================
+MFRU:
+12
+17
+24
+14
+26
+26
+18
+10
+15
+27
+22
+24
+Print replacement buffer
+17 29 true
+0 10 true
+18 12 true
+44 25 false
+40 21 true
+28 19 false
+42 34 true
+Print search buffer
+Print BST in inorder:
+0 10 true
+17 29 true
+18 12 true
+28 19 false
+40 21 true
+42 34 true
+44 25 false
+Print BST in preorder:
+42 34 true
+28 19 false
+18 12 true
+0 10 true
+17 29 true
+40 21 true
+44 25 false
+Prime memory
+18 12 true
+17 29 true
+42 34 true
+40 21 true
+0 10 true
+44 25 false
+28 19 false
+Hash table memory
+42 34 true
+0 10 true
+44 25 false
+17 29 true
+18 12 true
+40 21 true
+28 19 false
+
+====================================
+LFRU:
+12
+17
+26
+18
+30
+18
+Print replacement buffer
+35 21 true
+17 29 true
+30 17 true
+10 30 false
+40 30 false
+50 18 false
+20 26 false
+Print search buffer
+Print BST in inorder:
+10 30 false
+17 29 true
+20 26 false
+30 17 true
+35 21 true
+40 30 false
+50 18 false
+Print BST in preorder:
+20 26 false
+10 30 false
+17 29 true
+40 30 false
+30 17 true
+35 21 true
+50 18 false
+Prime memory
+20 26 false
+10 30 false
+17 29 true
+40 30 false
+35 21 true
+50 18 false
+30 17 true
+Hash table memory
+35 21 true
+50 18 false
+30 17 true
+10 30 false
+17 29 true
+40 30 false
+20 26 false

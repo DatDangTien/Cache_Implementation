@@ -1,0 +1,75 @@
+7
+4
+12
+7
+7
+2
+1
+1
+1
+0
+12
+1
+1
+10
+3
+6
+2
+0
+9
+8
+2
+12
+7
+8
+6
+4
+4
+Print stack
+17 33 true
+18 6 false
+1 0 false
+9 8 false
+11 24 false
+3 6 false
+8 7 false
+16 6 false
+7 4 false
+4 8 false
+2 7 false
+6 3 false
+0 6 false
+12 4 false
+15 1 false
+Print BST in inorder
+0 6 false
+1 0 false
+2 7 false
+3 6 false
+4 8 false
+6 3 false
+7 4 false
+8 7 false
+9 8 false
+11 24 false
+12 4 false
+15 1 false
+16 6 false
+17 33 true
+18 6 false
+Print BST in preorder
+11 24 false
+6 3 false
+0 6 false
+2 7 false
+1 0 false
+4 8 false
+3 6 false
+7 4 false
+8 7 false
+9 8 false
+15 1 false
+12 4 false
+16 6 false
+18 6 false
+17 33 true

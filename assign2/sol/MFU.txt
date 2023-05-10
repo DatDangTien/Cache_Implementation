@@ -1,0 +1,33 @@
+12
+20
+Print replacement buffer
+16 2 false
+1 24 true
+0 10 true
+9 22 false
+13 22 false
+Print search buffer
+Print BST in inorder:
+0 10 true
+1 24 true
+9 22 false
+13 22 false
+16 2 false
+Print BST in preorder:
+1 24 true
+0 10 true
+9 22 false
+13 22 false
+16 2 false
+Prime memory
+0 10 true
+1 24 true
+13 22 false
+9 22 false
+16 2 false
+Hash table memory
+0 10 true
+1 24 true
+16 2 false
+13 22 false
+9 22 false

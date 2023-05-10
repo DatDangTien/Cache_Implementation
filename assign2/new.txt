@@ -1,0 +1,12 @@
+External ptr:
+int *memIndex{
+    rp->replace
+    rp->insert
+    rp->changeKey
+}
+int *heapIndex;
+Elem *Elem;
+
+
+class BST : public SearchEngine
+
